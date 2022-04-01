@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(79, 87, 18);
+}
+
+#header {
+    color: rgb(4, 4, 3);
+}
+
+#header1 {
+    color: antiquewhite;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
